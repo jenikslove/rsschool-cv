@@ -1,6 +1,8 @@
 # Ibragimov Evgene
+
 - email : ibragimov.evgene@gmail.com
 
+- skype: ibragimov.evgene
 ## Summary:
 This is my first course in this format. Hope to get the most out of it. My goal is to study modern programming techniques and teamwork experience.
 
